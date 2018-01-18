@@ -4,11 +4,30 @@ Notas en español sobre el bootcamp de Python 3.
 
 ## Python setup
 
+Descargar Anaconda
+
 ## Python Object and Data Structure Basics
+
+- Numeros
+- Cadenas
+- Listas
+- Diccionarios
+- Tuplas
+- Archivos
+- Sets y Booleanos
 
 ## Python Comparison Operators
 
+- Comparadores
+- Comparaores en cadena
+
 ## Python Statements
+
+- if, else, elif
+- ciclos for
+- ciclos while
+- range()
+- Comprension de listas.
 
 ## Methods and Functions
 
