@@ -31,6 +31,11 @@ Descargar Anaconda
 
 ## Methods and Functions
 
+- Metodos
+- Funciones
+- Expresiones Lambda
+- Declaraciones anidadas y alcance de variables
+
 ## Project 1
 
 ## Object Oriented Programming
